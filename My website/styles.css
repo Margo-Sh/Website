@@ -1,0 +1,142 @@
+body
+{
+	background-color: white;
+	text-align: center;
+	font-size: 160%
+}
+p
+{
+		font-size: 100%;
+}
+h1
+{
+	color: blue;
+	
+	text-align: center;
+	font-size: 160%
+}
+
+h2
+{
+	color: Navy;
+	
+	text-align: center;
+	font-size: 140%
+}
+#main_text
+{
+	color: black;
+	text-align: center;
+	font-size: 120%;
+}
+
+
+#double
+{
+	border-style: double;
+	text-align: center;
+	padding: 3%;
+}
+
+h4
+{
+	text-align: center;
+	font-size: 130%;
+}
+#header
+{
+	text-align: center;
+	background: LightSkyBlue;
+	vertical-align: bottom;
+	height: 5%;
+	width: 95%;
+	
+}
+
+#figure_base
+{
+	width: 95%;
+	height: 100%;
+	float: center;
+	
+	display: block;
+	text-align: left;
+}
+
+
+#figure_pic
+{
+	float: right;
+	width: 20%;
+	
+	background: white;
+	
+	display: block;
+	margin: 1%;
+	
+	text-align: center;
+}
+#figure_pic_big
+{
+	float: right;
+	width: 30%;
+	
+	background: white;
+	
+	display: block;
+	margin: 1%;
+	
+	text-align: center;
+}
+#figure_pic1
+{
+	float: right;
+	width: 25%;
+	
+	background: white;
+	
+	display: block;
+	margin: 1%;
+	
+	text-align: center;
+}
+
+#big_pic
+{
+	float: right;
+	width: 35%;
+	
+	background: white;
+	
+	display: block;
+	margin: 1%;
+	
+	text-align: center;
+}
+#big_big_pic
+{
+	float: right;
+	width: 40%;
+	
+	background: white;
+	
+	display: block;
+	margin: 1%;
+	
+	text-align: center;
+}
+
+#menu_table
+{
+	width: 100%;
+}
+
+#t01
+{
+  width: 100%;
+  font-size: 90%;
+   
+  text-align: center;
+}
+
+
